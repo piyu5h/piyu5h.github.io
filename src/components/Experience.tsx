@@ -10,7 +10,7 @@ const Experience = () => {
       company: "Apnatime Tech",
       role: "Lead Data Engineer",
       period: "2022-05 to Present",
-      location: "Remote",
+      location: "Bangalore, India",
       achievements: [
         "Led end-to-end architecture of data platform supporting 100+ data analysts, software engineers and data scientists",
         "Architected and deployed an event ingestion platform handling 10B+ events daily, leveraging Spring Boot Reactive Framework",
@@ -29,7 +29,7 @@ const Experience = () => {
       company: "To The New",
       role: "Senior Data Engineer",
       period: "2021-07 to 2022-04",
-      location: "Noida, India",
+      location: "Remote",
       achievements: [
         "Helped and managed to create Central Data Lake with multiple integrations for different business verticals",
         "Led development of real time pipeline that is using Confluent Kafka, spark Structured Streaming and Confluent Kafka Connectors for Customers Transaction data at large scale (60M+/day)",
@@ -45,7 +45,7 @@ const Experience = () => {
       company: "Innoeye Technologies",
       role: "Senior Data Engineer",
       period: "2020-05 to 2021-07",
-      location: "Bangalore, India",
+      location: "Indore, India",
       achievements: [
         "Collaborated with multiple teams and management to understand the requirement and design the product for advanced telecom analytics",
         "Optimized and re-architected Spark Jobs to cut the resources by 80%",
@@ -62,7 +62,7 @@ const Experience = () => {
       company: "Innoeye Technologies",
       role: "Data Engineer",
       period: "2017-05 to 2020-05",
-      location: "Bangalore, India",
+      location: "Indore, India",
       achievements: [
         "Developed Spark Jobs to analyze multiple source data for Network Operators at Terabyte Scale",
         "Migrated Legacy Spark Jobs from RDD to Datasets",

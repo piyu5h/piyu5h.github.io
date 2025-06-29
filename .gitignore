@@ -2,16 +2,8 @@
 node_modules/
 bun.lockb
 
-# Build outputs
+# Build outputs (keep dist/ ignored, but allow root built files for GitHub Pages)
 dist/
-
-# Built files in root (for manual deployment)
-/index.html
-/assets/
-/robots.txt
-/favicon.ico
-/placeholder.svg
-/404.html
 
 # Environment variables
 .env
